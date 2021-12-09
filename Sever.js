@@ -15,4 +15,4 @@ message.channel.send("pong")
     .setfooter("this is embed footer")
     message.channel.send(embed)
 }}
-  client.login("Your bot token")
+  client.login("OTE4MzQ5MDk2MzI1MTIwMDEx.YbF9Pg.dylBi0QFL1QNEUf-m43t2jC9vMs")
